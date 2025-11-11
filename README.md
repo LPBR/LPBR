@@ -17,7 +17,7 @@ I'm a passionate Software Developer, currently working as a Tech Lead. My main e
 
 ## 🛠️ Tech Stack
 
-- **Languages/Frameworks:** Ruby, Rails, JavaScript, Vue.js, C#
+- **Languages/Frameworks:** Ruby, Rails, JavaScript, Python, Vue.js, C#
 - **Queues:** SQS, RabbitMQ
 - **Monitoring & Performance:** New Relic, Grafana, APM tools
 - **Cloud & Infra:** AWS, Kubernetes, Docker, CI/CD
